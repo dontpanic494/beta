@@ -12,5 +12,24 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('home.home');
 });
+
+Route::get('/xkcd', function(){
+	return view('xkcd.xkcd');
+});
+
+//Route::post('/xkcd', 'xkcdGenerator@postForm');
+
+Route::get('/loremipsum', function () {
+    return view('lorem.lorem');
+});
+
+//Route::post('/loremipsum', 'LIController@postForm');
+
+Route::get('/randomuser', function () {
+    return view('ruser.ruser');
+});
+
+//Route::post('/randomuser', 'RUserController@postForm');
+
