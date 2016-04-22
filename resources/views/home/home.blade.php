@@ -11,7 +11,7 @@
 
 			<p class= "text-muted">Eventually, I'm going to add a bit more text here to balance out the page. For now, since this site is in beta, I'm just going to include this placeholder text so that I can get a feel for how the layout will look. This paragraph is <strong>VERY</strong> irrelevant.</p>
 
-			<p class = "text-warning"><strong>NOTE:</strong> PLEASE DONT CLICK ANYTHING OR EVERYTHING WILL BREAK</p>
+			<p class = "text-warning"><strong>NOTE:</strong> THIS SITE IS IN BETA! You can always go to <a href="http;//www.johnlincoln.com">my normal portfolio page</a> if you need somthing that actually works.</p>
 		</div>
 	</div>
 	<div class = 'container row'>
