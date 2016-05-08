@@ -32,9 +32,11 @@
 
 		    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-2">
 		      <ul class="nav navbar-nav">
+					<!--
 					<li {{ (Request::is('xkcd') ? 'class=active' : '') }}><a href="/xkcd">xkcd Password</a></li>
 		            <li {{ (Request::is('loremipsum') ? 'class=active' : '') }}><a href="/loremipsum">Lorem Ipsum</a></li>
 		            <li {{ (Request::is('randomuser') ? 'class=active' : '') }}><a href="/randomuser">Random User</a></li>
+		        	-->
 		        </li>
 		      </ul>
 		      <ul class="nav navbar-nav navbar-right">
