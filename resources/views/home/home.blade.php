@@ -45,7 +45,7 @@
 		    </tr>
 		    <tr>
 		      <td>P4</td>
-		      <td>Name TBD</td>
+		      <td>Fridge Buffet</td>
 		      <td><a href="http://p4.johnlincoln.me/">p4.johnlincoln.me</a></td>
 		      <td><a href="https://github.com/jlincoln88/P4">jlincoln88/P4</a></td>
 		    </tr>
